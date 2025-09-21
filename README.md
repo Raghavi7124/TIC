@@ -14,7 +14,7 @@ A suicide prevention chatbot MVP designed for a 12-hour hackathon. Thunai serves
 
 - **Frontend**: React.js with Material-UI
 - **Backend**: Python Flask with SQLite
-- **Chatbot Engine**: Google Dialogflow (setup guide included)
+- **Chatbot Engine**: Google Gemini
 - **Database**: SQLite with mental health resources
 - **Languages**: Bilingual support (English & Tamil)
 
